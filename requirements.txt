@@ -1,0 +1,4 @@
+Flask==2.0.1
+Flask-CORS==3.0.10
+python-dotenv==0.19.1
+azure-cognitiveservices-speech==1.22.0
